@@ -1,6 +1,4 @@
 # Email Generation Assistant
-### AI Engineer Candidate Assessment — Full Implementation
-
 A complete email generation and evaluation pipeline using **Groq's free LLM API**.  
 Compares two prompting strategies across 10 scenarios using 3 custom metrics.
 
