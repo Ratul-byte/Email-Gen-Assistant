@@ -39,8 +39,7 @@ pip install -r requirements.txt
 
 ### 3. Configure Your API Key
 ```bash
-cp .env.example .env
-# Open .env and paste your Groq API key
+# Create .env and paste your Groq API key
 ```
 
 ### 4. Run the Full Evaluation
